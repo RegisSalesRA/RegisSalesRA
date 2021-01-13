@@ -1,6 +1,15 @@
 # Heyooo 👋
 
-My name is Régis and i am from 🇧🇷Brazil🇧🇷
+My name is Régis 😎
+i am from 🇧🇷Brazil🇧🇷
+
+
+I am A Python Developer 👨🏽‍💻 , that has been working as a developer since 2019.👨🏽‍💻
+
+I am a man who love been a developer and work hard to fix problems 💪🏻
+Always prepere to new challanges and never and always give my best as i can  💪🏻
+
+
 
 <!--
 **RegisSalesRA/RegisSalesRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
