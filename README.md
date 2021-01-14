@@ -11,7 +11,7 @@ I am A Python Developer that has been working as a developer since 2019.👨🏽
 
 ###  🇺🇸"Keep Your Eyes on the horizon"🇺🇸
 
-- Living im fortaleza-CE  ✌🏻
+- Living in fortaleza-CE  ✌🏻
 
 <!--
 **RegisSalesRA/RegisSalesRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
