@@ -1,7 +1,7 @@
 # Heyooo 👋
 
 - My name is Régis 😎
-- i am from 🇧🇷Brazil🇧🇷
+- i am from 🇧🇷Brazil 🇧🇷
 
 
 I am A Python Developer that has been working as a developer since 2019.👨🏽‍💻
