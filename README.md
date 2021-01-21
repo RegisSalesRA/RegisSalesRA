@@ -13,7 +13,10 @@ I am A Python Developer that has been working as a developer since 2020.👨🏽
 
 - Living in fortaleza-CE  ✌🏻
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/RegisSales/) 
 
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/django-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white" />
 
 ### Informations
 
