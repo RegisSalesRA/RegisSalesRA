@@ -22,7 +22,8 @@
 
 - Favorite Languages
 
-<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=RegisSalesRA&layout=compact" alt="RegisSales"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisSalesRA&layout=compact)" alt="RegisSalesRA"/> 
+
 
 <!--
 **RegisSalesRA/RegisSalesRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
