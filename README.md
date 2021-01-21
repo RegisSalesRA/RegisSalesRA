@@ -1,24 +1,22 @@
 # Heyooo 👋
 
+
+## About me
 - My name is Régis 😎
-- i am from 🇧🇷Brazil 🇧🇷
-
-
-I am A Python Developer that has been working as a developer since 2020.👨🏽‍💻
-
-- I am a man who love been a developer and work hard to fix problems 💪🏻
+- I am from 🇧🇷Brazil 🇧🇷
+- Living in fortaleza-CE  ✌🏻
 - Always prepared to new challenges and always give my best as i can  💪🏻
+- I am a <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />  Developer developer work with python since 2020.👨🏽‍💻
+- Favorite Framework <img src="https://img.shields.io/badge/django-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white" />
 
 ###  🇺🇸"Keep Your Eyes on the horizon"🇺🇸
 
-- Living in fortaleza-CE  ✌🏻
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/r%C3%A9gis-rommel-madeiro-sales-3a2b80196/) 
-
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/django-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white" />
 
 ### Informations
+
+- Contact
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/r%C3%A9gis-rommel-madeiro-sales-3a2b80196/) 
 
 - Status
 
