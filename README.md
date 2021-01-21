@@ -15,10 +15,12 @@ I am A Python Developer that has been working as a developer since 2020.👨🏽
 
 
 
+###Informations
 
+- Status
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RegisSalesRA&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-
+- Favorite Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RegisSalesRA&layout=compact)](https://github.com/RegisSalesRA/github-readme-stats)
 
 <!--
