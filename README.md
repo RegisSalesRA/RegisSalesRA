@@ -5,7 +5,7 @@
 - My name is Régis 😎
 - I am from 🇧🇷Brazil 🇧🇷
 - Living in fortaleza-CE  ✌🏻
-- Always prepared to new challenges and always give my best as i can  💪🏻
+- Always prepared to new challenges and always giving my best as i can  💪🏻
 - I am a <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />  Developer developer work with python since 2020.👨🏽‍💻
 - Favorite Framework <img src="https://img.shields.io/badge/django-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white" />
 
