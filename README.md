@@ -18,7 +18,7 @@
 
 - Status
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RegisSalesRA&show_icons=true&theme=dark)](https://github.com/RegisSalesRA/github-readme-stats) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RegisSalesRA&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 - Favorite Languages
 
