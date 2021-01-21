@@ -13,6 +13,14 @@ I am A Python Developer that has been working as a developer since 2020.👨🏽
 
 - Living in fortaleza-CE  ✌🏻
 
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RegisSalesRA&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RegisSalesRA&layout=compact)](https://github.com/RegisSalesRA/github-readme-stats)
+
 <!--
 **RegisSalesRA/RegisSalesRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
