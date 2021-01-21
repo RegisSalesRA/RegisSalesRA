@@ -1,7 +1,5 @@
 # Heyooo 👋
 
-
-## About me
 - My name is Régis 😎
 - I am from 🇧🇷Brazil 🇧🇷
 - Living in fortaleza-CE  ✌🏻
