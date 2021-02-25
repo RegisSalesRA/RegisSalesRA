@@ -2,7 +2,7 @@
 
 - My name is Régis 
 - I am from Brazil
-- Living in fortaleza-CE🏻
+- Living in fortaleza-CE
 - Always prepared to new challenges and always giving my best as i can🏻
 - I am a python developer
 - I have worked with python since 2020.👨🏽‍💻
