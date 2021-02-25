@@ -1,27 +1,27 @@
 # Heyooo 👋
 
-- My name is Régis 😎
-- I am from 🇧🇷Brazil 🇧🇷
-- Living in fortaleza-CE  ✌🏻
-- Always prepared to new challenges and always giving my best as i can  💪🏻
-- I am a <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />  developer
-- I have worked with python python since 2020.👨🏽‍💻
-- Favorite Framework <img src="https://img.shields.io/badge/django-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white" />
-
+- My name is Régis 
+- I am from Brazil
+- Living in fortaleza-CE🏻
+- Always prepared to new challenges and always giving my best as i can🏻
+- I am a python developer
+- I have worked with python since 2020.👨🏽‍💻
+- My Favorite Framework is Django
+- 
 ###  🇺🇸"Keep Your Eyes on the horizon"🇺🇸
 
 
 ### Informations
 
-- Contact 👇🏻
+- Contact 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/r%C3%A9gis-rommel-madeiro-sales-3a2b80196/) 
 
-- Status 👇🏻
+- Status 
 
 <img src="https://github-readme-stats.vercel.app/api?username=RegisSalesRA&count_private=true&show_icons=true" alt="RegisSalesRA"/> 
 
-- Favorite Languages 👇🏻
+- Favorite Languages 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisSalesRA&layout=compact)" alt="RegisSalesRA"/> 
 
