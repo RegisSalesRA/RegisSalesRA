@@ -4,7 +4,7 @@
 
 - I am from Brazil
 - Living in fortaleza-CE
-- Always prepared to face new challenges and always giving my best as i can🏻
+- Always prepared to face new challenges and always giving my best
 - I have worked with python since 2020
 - No fear to get new challenges
 
