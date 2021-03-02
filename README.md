@@ -1,6 +1,6 @@
-## Hi there, i am name is Régis Sales 👋
+## Hi there, let me intruduce myself 👋
 
-# I am a Student and Developer!
+# My name is Régis and i'm Developer backend!
 
 - I am from Brazil
 - Living in fortaleza-CE
