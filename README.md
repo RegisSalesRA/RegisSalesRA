@@ -4,9 +4,9 @@
 
 - I am from Brazil
 - Living in fortaleza-CE
-- Always prepared to face new challenges and always giving my best
 - I have worked with python since 2020
-- No fear to get new challenges
+- I have experience with Flutter too
+- Always ready for new challenges
 
 
 ### Contact 
@@ -16,8 +16,7 @@
 - Status 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisSalesRA&layout=compact)" alt="RegisSalesRA"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=RegisSalesRA&count_private=true&show_icons=true" alt="RegisSalesRA"/> 
-
-- Favorite Languages 
+ 
 
 
 
