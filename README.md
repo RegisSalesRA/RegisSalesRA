@@ -1,11 +1,11 @@
 ## Hi there, let me intruduce myself 👋
 
-# My name is Régis and i'm Developer backend!
+# My name is Régis and i'm Software Developer!
 
 - I am from Brazil
 - Living in fortaleza-CE
 - I have worked with python since 2020
-- I have experience with Flutter too
+- I have experience with Flutter
 - Always ready for new challenges
 
 
