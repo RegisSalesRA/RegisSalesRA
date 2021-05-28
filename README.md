@@ -4,8 +4,7 @@
 
 - I am from Brazil
 - Living in fortaleza-CE
-- I have worked with python since 2020
-- I have experience with Flutter
+- I have worked as software developer since 2020
 - Always ready for new challenges
 
 
