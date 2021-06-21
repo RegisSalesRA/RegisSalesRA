@@ -1,6 +1,6 @@
-## Hi there, let me intruduce myself 👋
+# Hi there, let me intruduce myself 👋
 
-# My name is Régis and i'm Software Developer!
+## My name is Régis and i'm Software Developer!
 
 - I am from Brazil
 - Living in fortaleza-CE
