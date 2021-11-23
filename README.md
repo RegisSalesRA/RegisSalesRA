@@ -13,8 +13,10 @@
 
 - Status 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisSalesRA&layout=compact)" alt="RegisSalesRA"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=RegisSalesRA&count_private=true&show_icons=true" alt="RegisSalesRA"/> 
- 
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=RegisSalesRA&count_private=true&show_icons=true" alt="RegisSalesRA"/>                      
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisSalesRA&layout=compact)" alt="RegisSalesRA"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <div>
 
 
 
