@@ -2,7 +2,6 @@
 
 ### Overview
 
-- I am from Brazil living in fortaleza-CE
 <img src="https://github-readme-stats.vercel.app/api?username=RegisSalesRA&count_private=true&show_icons=true" alt="RegisSalesRA"/> 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/regisrommel/) 
