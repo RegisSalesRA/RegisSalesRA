@@ -9,19 +9,19 @@
 </p>
 
 
-### ⭐ Overview
+## ⭐ Overview
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RegisSalesRA&show_icons=true&include_all_commits=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisSalesRA&layout=compact&langs_count=7"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=RegisSalesRA&show_icons=true&include_all_commits=true&count_private=false"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisSalesRA&layout=compact&langs_count=7"/>
 </div>
  
-### 😎 Contact  
+## 😎 Contact  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/regisrommel/) 
 
   
-### 🖥️ Technologies and Tools 
+## 🖥️ Technologies and Tools 
  
    <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title = "DART"/></code>
    <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "PYTHON"/></code>
