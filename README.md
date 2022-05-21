@@ -1,5 +1,5 @@
 <div dsplay="inline-block">
- <h1 align="left">Régis Sales</h1>
+ <h1 align="center">Régis Sales - Favorite language <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title = "DART"/>  </h1>
 </div>
 
  
