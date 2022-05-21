@@ -1,5 +1,3 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
-
 <div dsplay="inline-block">
  
  <h1 align="left">Régis Sales</h1>
@@ -31,7 +29,7 @@
 
  
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
+ 
    
    <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title = "DART"/></code>
    <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "PYTHON"/></code>
@@ -47,16 +45,30 @@
    
 
 
-   <img src="https://cdn.glitch.com/0e4d1ff3-5897-47c5-9711-d026c01539b8%2Fbddfd6e4434f42662b009295c9bab86e.gif?v=1573157191712" alt="this slowpoke moves"  width="250" alt="404 image"/>
 
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
+ - uses: Platane/snk@v2
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: RegisSalesRA
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
    
-   
-   ![Snake animation](https://github.com/RegisSalesRA/RegisSAlesRA/blob/output/github-contribution-grid-snake.svg)
-   
-   
+ 
+ 
+ 
 <!--
 **RegisSalesRA/RegisSalesRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
