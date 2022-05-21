@@ -2,13 +2,10 @@
  <h1 align="left">Régis Sales</h1>
 </div>
 
-<p align="center">
-  Apaixonado por programação!!!! 🖥️ 
-</p>
  
 
 <p align="center">
-  <img src="assets/18s0.gif" width="350">
+  <img src="assets/18s0.gif" width="250">
 </p>
 
 
@@ -24,7 +21,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/regisrommel/) 
 
   
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Technologies and Tools 
  
    <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title = "DART"/></code>
    <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "PYTHON"/></code>
