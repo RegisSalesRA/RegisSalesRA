@@ -1,11 +1,10 @@
-<div dsplay="inline-block">
- <h1 align="center">Régis Sales - Favorite language <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title = "DART"/>  </h1>
+<div display="inline-block">
+ <h1 align="center">Régis Sales
+ </h1>
 </div>
 
- 
-
 <p align="center">
-  <img src="assets/18s0.gif" width="250">
+  <img src="assets/levi.gif" width="250">
 </p>
 
 
