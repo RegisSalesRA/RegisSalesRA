@@ -1,3 +1,5 @@
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/regisrommel/)
+
 <div display="inline-block">
  <h1 align="center">Régis Sales
  </h1>
@@ -7,19 +9,6 @@
   <img src="assets/levi.gif" width="250">
 </p>
 
-
-## ⭐ Overview
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=RegisSalesRA&show_icons=true&include_all_commits=true&count_private=false"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisSalesRA&layout=compact&langs_count=8"/>
-</div>
- 
-## 😎 Contact  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/regisrommel/) 
-
-  
 ## 🖥️ Technologies and Tools 
  
    <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title = "DART"/></code>
@@ -33,6 +22,15 @@
    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+   
+## ⭐ Overview
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=RegisSalesRA&show_icons=true&include_all_commits=true&count_private=false"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisSalesRA&layout=compact&langs_count=8"/>
+</div>
+   
+
 
  
 <!--
