@@ -18,10 +18,9 @@
    <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title = "DOCKER"/></code>
    <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title = "SWIFT"/></code>
    <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title = "LINUX"/></code>
-   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+   <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "REACT"/></code>
    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+   
    
 ## ⭐ Overview
 <div>
